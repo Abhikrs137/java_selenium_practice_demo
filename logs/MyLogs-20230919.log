@@ -1,0 +1,5 @@
+2023-09-19 16:02:27.484 [main] INFO  testcases.VerifyAddToCartFuntionality - ----- Checking the total of selected item price -----
+2023-09-19 16:02:28.625 [main] INFO  testcases.VerifyAddToCartFuntionality - ----- Verifying the total of selected item price -----
+2023-09-19 16:02:28.628 [main] INFO  testcases.VerifyAddToCartFuntionality - ----- Verifying the total of selected item selected -----
+2023-09-19 16:02:28.662 [main] INFO  BasePackage.BasePage - Test case got passed
+2023-09-19 16:02:28.662 [main] INFO  BasePackage.BasePage - __________________________________________________________________________________
